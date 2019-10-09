@@ -8,7 +8,7 @@
 
 /**
  * Tells WordPress to load the WordPress theme and output it.
- *test 这是一个测试上次 this is a test upload
+ *test 这是一个测试上次 this is a test upload???
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
